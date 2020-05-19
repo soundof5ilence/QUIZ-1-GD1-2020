@@ -1,72 +1,90 @@
 {
-    "quizID": "Bla Bla Questions",
+    "quizID": "ZeldaVragen",
     "quizMetaData":
     {
-        "title": "Bla Bla Knowledge",
-        "imageURI": "https://sd.keepcalms.com/i-w600/keep-calm-and-dont-ask-stupid-questions.jpg"
+        "title": "Zelda quiz voor veteranen",
+        "imageURI": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.ca%2FLegend-Zelda-Encyclopedia-Nintendo%2Fdp%2F150670638X&psig=AOvVaw3Eu1QyaENdu8a7HB4t3IZr&ust=1589882109038000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDNzsiSvekCFQAAAAAdAAAAABAD",
 
     },
-    "quizContent":		
+    "quizContent":
 		[
 			{
-				"question": "Wie ontwierp de Eiffeltoren?",
+				"question": "waar was de eerste zelda op gebasseerd",
+        "imageURI": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zeldadungeon.net%2Fthe-legend-of-zelda-walkthrough%2Fthe-gathering%2F&psig=AOvVaw2BGu82vSTgqYefYKGSTyW_&ust=1589882196773000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOijwu-SvekCFQAAAAAdAAAAABAM",
+
 				"answers": [{
-						"answer": "Eiffel",
+						"answer": "Op de avonturen die Shigeru Miyamoto beleefde in grotten en bossen toen hij klein was",
 						"feedback": true
 					},
 					{
-						"answer": "Berlage",
+						"answer": "OP de D&D avonturen die Shigeru Miyamoto beleefde. hij kreeg er van inspiratie.",
 						"feedback": false
 					},
 					{
-						"answer": "Edison",
+						"answer": "Op een sprookje die Shigeru Miyamoto kende toen hij klein was.",
 						"feedback": false
 					},
 					{
-						"answer": "James Watt",
+						"answer": "Op een boek dat Shigeru Miyamoto had gelezen.",
 						"feedback": false
 					}
 				]
 			},
 			{
-				"question": "In welke kleuren speelt blauw-wit?",
+				"question": "De Master Sword is het krachtiste wapen in de franschise",
+        "imageURI": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.polygon.com%2Fzelda-breath-of-the-wild-guide-walkthrough%2F2017%2F3%2F15%2F14912604%2Fhow-to-get-master-sword-botw&psig=AOvVaw03ZuOhMB1ic8eiZfewg1T5&ust=1589882542654000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJimxJOUvekCFQAAAAAdAAAAABAK",
 				"answers": [{
-						"answer": "blauw en wit",
+						"answer": "klopt",
+						"feedback": false
+					},
+					{
+						"answer": "klopt niet",
 						"feedback": true
-					},
-					{
-						"answer": "groen en geel",
-						"feedback": false
-					},
-					{
-						"answer": "rood en wit",
-						"feedback": false
-					},
-					{
-						"answer": "rood en blauw",
-						"feedback": false
-					}
+
 				]
 			},
 			{
-				"question": "Wat is de voornaam van Eddy Merckx?",
+				"question": "Je krijgt je eerste ocarina in ocarina of time van ...",
+        "imageURI": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nintendo.nl%2FGames%2FNintendo-3DS%2FThe-Legend-of-Zelda-Ocarina-of-Time-3D-275007.html&psig=AOvVaw0lDwE0lYW5CI9FGnWnKnPA&ust=1589882592590000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCND9tK2UvekCFQAAAAAdAAAAABAD",
 				"answers": [{
-						"answer": "Jelle",
+						"answer": "the Great Deku Tree",
 						"feedback": false
 					},
 					{
-						"answer": "Ed",
+						"answer": "Zelda",
 						"feedback": false
 					},
 					{
-						"answer": "Eddy",
+						"answer": "Impa",
+						"feedback": false
+					},
+					{
+						"answer": "saria",
 						"feedback": true
-					},
-					{
-						"answer": "Gerrit",
-						"feedback": false
 					}
 				]
-			}
-		]
-	}
+      },
+          {
+            "question": "wanneer werd breath of the wild in productie gezet.",
+            "imageURI": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nintendo.com%2Fgames%2Fdetail%2Fthe-legend-of-zelda-breath-of-the-wild-switch%2F&psig=AOvVaw3qBmEyFhFkzVE-QGWD1Yys&ust=1589882617728000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICQ37eUvekCFQAAAAAdAAAAABAD",
+
+            "answers": [{
+                "answer": "in 2011 vlak na legend of zelda skyward sword. voor de volgende generatie console.",
+                "feedback": true
+              },
+              {
+                "answer": "in 2013 nadat de wii u werd uitgebracht",
+                "feedback": false
+              },
+              {
+                "answer": "in 2016 toen de eerste plannen voor de switch al klaar waren en ze een game nodig hadden",
+                "feedback": false
+              },
+              {
+                "answer": "in 2009 als een soort immpossible game for the future concept.",
+                "feedback": false
+
+              ]
+              }
+              ]
+              }
